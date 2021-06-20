@@ -59,6 +59,10 @@
   color: var(--accent-color);
 }
 
+.active-link {
+  color: var(--accent-color);
+}
+
 .head-info {
   list-style: none;
 }
